@@ -31,7 +31,8 @@ table, th, td {
 }
 
 .firebird{
-  background-image: url("firebird.png")
+  background-image: url("firebird.png");
+  color: #ff5500;
 }
 
 }

@@ -11,17 +11,12 @@ table, th, td {
   border:  1px solid black;
 }
 .googleCar{
-  background-image: url("googleCar.png");
 }
 .teslaPage{
   text-align: center;
   font-family: Helvetica,Arial,sans-serif;
   background-color: #fafafa;
   color: #6e6a6e;
-
-
-
-
 }
 .teslaPage > h1{
   color: blue;
@@ -31,13 +26,11 @@ table, th, td {
 }
 
 .firebird{
-  background-image: url("firebird.png");
   color: #ff5500;
 }
 
 }
 h1 {
-
   text-align: center;
   text-decoration-color: #00ff00;
 }
